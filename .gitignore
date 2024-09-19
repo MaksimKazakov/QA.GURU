@@ -1,6 +1,7 @@
-
-
-
+/01_00_Introduction/Intro/build
+/01_00_Introduction/Intro/.gradle/*
+/01_00_WorkIDEA/WorkIDEA/build
+/01_00_WorkIDEA/WorkIDEA/.gradle
 
 # Compiled class file
 *.class

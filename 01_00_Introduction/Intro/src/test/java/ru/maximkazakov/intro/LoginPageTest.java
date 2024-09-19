@@ -11,7 +11,7 @@ public class LoginPageTest extends BaseTestAtrast {
     @Test
     public void testLoginPage() {
         open("https://new.a-trast.ru");
-        $x(" //div[contains(text(), 'Вход')]").click();
+        $x("//div[contains(text(), 'Вход')]").click();
         $x("//input[@name=\"USER_LOGIN\"]").setValue(getUsername());
         $x("//input[@name=\"USER_PASSWORD\"]").setValue(getPassword());
         $x("//div[contains(text(), 'Войти')]").click();
