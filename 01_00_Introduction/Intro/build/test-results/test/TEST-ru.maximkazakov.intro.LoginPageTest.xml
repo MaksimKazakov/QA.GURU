@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.maximkazakov.intro.LoginPageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-19T06:49:32" hostname="RYZEN5950X" time="6.371">
+  <properties/>
+  <testcase name="testLoginPage()" classname="ru.maximkazakov.intro.LoginPageTest" time="6.371"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: E:\MyProjects\QA.GURU\01_00_Introduction\Intro\build\downloads\1726728572125_3688_1
+сент. 19, 2024 11:49:33 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 128
+сент. 19, 2024 11:49:33 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 128.0.6613.138. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.19.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=128.0.6613.138 Platform=windows
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 7.2.3
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 4.19.1 build revision: abe0ee07dc
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Created webdriver in thread 1: ChromeDriver -> ChromeDriver: chrome on windows (a20c9ebdfe406f757b60c5becb85fb05), downloadsFolder: E:\MyProjects\QA.GURU\01_00_Introduction\Intro\build\downloads\1726728572125_3688_1
+[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Register WebDriverInstance[config=StaticConfig, webDriver=ChromeDriver: chrome on windows (a20c9ebdfe406f757b60c5becb85fb05), proxy=null, downloadsFolder=E:\MyProjects\QA.GURU\01_00_Introduction\Intro\build\downloads\1726728572125_3688_1] in 1 [size=1]
+[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Add shutdown hook in 1 [size=1]
+]]></system-err>
+</testsuite>
